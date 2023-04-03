@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raphaelketere
-- 👀 I’m interested in Artificial Intelligence 
-- 🌱 I’m currently learning, cloud computimg
-- 💞️ I’m looking to collaborate on, and be AI expert
+- 👀 I’m interested in Game development 
+- 🌱 I’m currently learning, C# and C++
+- 💞️ I’m looking to collaborate on, and be Game Dev expert
 - 📫 How to reach me ...lemajnr10@gmail.com
 
 <!---
